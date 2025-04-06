@@ -1,0 +1,7 @@
+text,label
+"I am afraid of the bomb",trauma
+"I love playing with my friends",no_trauma
+"My house was bombed and I lost everything",trauma
+"I feel safe here with my family",no_trauma
+"My mother is dead and I have no one",trauma
+"I miss my parents but I’m doing okay",no_trauma
