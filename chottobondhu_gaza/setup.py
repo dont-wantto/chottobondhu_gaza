@@ -17,6 +17,6 @@ setup(
     description='AI-powered tool to detect trauma in children’s writings and messages during war or displacement.',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    url='https://github.com/your-repo/chottobondhu-gaza',
+    url='https://github.com/dont-wantto/chottobondhu_gaza',
     license='MIT',
 )
