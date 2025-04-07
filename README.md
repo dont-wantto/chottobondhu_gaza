@@ -24,10 +24,3 @@ This is an **early-stage** project, currently offering:
 > The model isn't perfect yet – but it's a first step toward **healing with code**.
 
 ---
-
-## 📍 Installation
-
-Install the package using pip:
-
-```bash
-pip install chottobondhu_gaza
